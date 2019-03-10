@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "number": "12",
+    "name": "Lamarcus Aldridge",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200746.png",
+    "position": "Center-Forward"
+  },
+  {
+    "id": 2,
+    "number": "18",
+    "name": "Marco Belinelli",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201158.png",
+    "position": "Guard-Forward"
+  },
+  {
+    "id": 3,
+    "number": "42",
+    "name": "Davis Bertans",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/202722.png",
+    "position": "Forward"
+  },
+  {
+    "id": 4,
+    "number": "33",
+    "name": "Dante Cunningham",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201967.png",
+    "position": "Forward"
+  },
+  {
+    "id": 5,
+    "number": "10",
+    "name": "Demar Derozan",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201942.png",
+    "position": "Guard",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "number": "25",
+    "name": "Jakob Poetl",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627751.png",
+    "position": "Center",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "number": "11",
+    "name": "Bryn Forbes",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627854.png",
+    "position": "Guard",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "number": "22",
+    "name": "Rudy Gay",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200752.png",
+    "position": "Forward",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "number": "7",
+    "name": "Chimezie Metu",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629002.png",
+    "position": "Forward",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "number": "8",
+    "name": "Patty Mills",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201988.png",
+    "position": "Guard",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "number": "1",
+    "name": "Lonnie Walker IV",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1629022.png",
+    "position": "Guard",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "number": "4",
+    "name": "Derrick White",
+    "image": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628401.png",
+    "position": "Guard",
+    "clicked": false
+  }
+]

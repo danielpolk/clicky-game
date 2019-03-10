@@ -1,0 +1,46 @@
+
+.card {
+  border: 5px rgb(100, 100, 100) solid;
+  border-radius: 10px;
+  width: 150px;
+  height: 150px;
+  margin: 1.2rem;
+  position: relative;
+  box-shadow: 4px 4px 10px rgb(56, 56, 56);
+  transition: all .2s ease-in-out;
+}
+
+.card > .img-container {
+  height: 100%;
+  overflow: hidden;
+}
+
+.card > .img-container > img {
+  height: 100%;
+  margin-left: -20px;
+}
+
+.player-info {
+  margin: -130px 0px 10px;
+  padding: 21px;
+  font-size: 20px;
+  width: 160px;
+  height: 100%;
+  color: transparent;
+}
+
+.player-info:hover {
+  color: white !important;
+}
+
+.card:hover {
+  box-shadow: 8px 8px 20px rgb(56, 56, 56);
+  transform: scale(1.1);
+  cursor: pointer;
+  background: silver;
+}
+
+.card:active {
+  transform: translate(1px, 1px);
+}
+
