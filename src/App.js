@@ -92,11 +92,11 @@ class App extends Component {
                   handleIncrement={this.handleIncrement}
                   handleReset={this.handleReset}
                   handleShuffle={this.handleShuffle}
-                  id={player.id}
-                  image={player.image}
                   name={player.name}
                   number={player.number}
                   position={player.position}
+                  image={player.image}
+                  id={player.id}
                 />
               </Column>
             ))}
