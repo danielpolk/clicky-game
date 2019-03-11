@@ -1,4 +1,4 @@
-# Application
+# React Application
 
 ## Spurs Memory Game
 
