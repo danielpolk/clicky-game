@@ -85,7 +85,7 @@ class App extends Component {
         <Container>
           <Row>
             {this.state.players.map(player => (
-              <Column size="md-3 sm-6">
+              <Column size="md-3 sm-6" key={player.id}>
                 <PlayerCard
                   key={player.id}
                   handleClick={this.handleClick}
